@@ -1,4 +1,4 @@
-# Deep-learning-for-HCC
+# Deep-learning-HCC-VETC
 
 # Deep Learning Model for Radiomics and Pathomics
 
